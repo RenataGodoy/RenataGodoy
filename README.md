@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="whatsapp logo"  />
-  <a href="https://portifolio-renata-godoys-projects.vercel.app/">
-  <img src="https://img.shields.io/v1?message=My%20Portfolio&color=cc57cf&logo=github&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="Portfolio Badge" />
+<a href="https://portifolio-renata-godoys-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/-Portfolio-cc57cf?logo=github&logoColor=white&labelColor=cc57cf&style=flat" height="30" alt="Portfolio Badge" />
 </a>
+
 </div>
 
 ###
