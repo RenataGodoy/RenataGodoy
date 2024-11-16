@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="left">(Java | Spring Boot | Php | Laravel | React | Postgres| Javascript | HTML | CSS ) 🚀</h6>
+<p align="left">(Java | Spring Boot | Php | Laravel | React | Postgres| Javascript | HTML | CSS ) 🚀</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="163" src="LINK DA FOTO AQUI "  />
+<img align="right" height="163" src="img.png "  />
 
 ###
 
