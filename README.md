@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="whatsapp logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatagodoy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=true" height="20" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -28,7 +30,7 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="img2.png " style="padding-left: 200px;" />
+<img align="right" height="190" src="img2.png " style="padding-left: 20px;" />
 
 ###
 
