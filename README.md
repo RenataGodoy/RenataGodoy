@@ -1,4 +1,5 @@
 <h2 align="left">Hi there 👋</h2>
+<hr>
 
 ###
 
@@ -13,7 +14,7 @@
 ###
 
 <h4 align="left">My name is Renata Godoy</h4>
-
+<hr>
 ###
 
 <h6 align="left">(Java | Spring Boot | Php | Laravel | React | Postgres| Javascript | HTML | CSS ) 🚀</h6>
