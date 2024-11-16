@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="163" src="img.png "  />
+<img align="right" height="190" src="img2.png "  />
 
 ###
 
