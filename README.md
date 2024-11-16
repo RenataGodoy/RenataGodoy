@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Renata Godoy</h2>
+<h2 align="left">Hi there 👋</h2>
 
 ###
 
@@ -12,6 +12,14 @@
 
 ###
 
+<h4 align="left">My name is Renata Godoy</h4>
+
+###
+
+<h6 align="left">(Java | Spring Boot | Php | Laravel | React | Postgres| Javascript | HTML | CSS ) 🚀</h6>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatagodoy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=midnight-purple&hide_border=true" height="130" alt="languages graph"  />
 </div>
@@ -20,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="img.png "  />
+<img align="right" height="163" src="img.png"  />
 
 ###
 
