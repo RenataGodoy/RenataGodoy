@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">(Java | Spring Boot | Php | Laravel | React | Postgres| Javascript | HTML | CSS ) 🚀</p>
+<p align="left">(Java | Spring Boot | Php | Laravel | React | Postgres | Oracle | Javascript | HTML | CSS ) 🚀</p>
 
 ###
 
