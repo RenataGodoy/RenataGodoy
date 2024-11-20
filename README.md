@@ -15,7 +15,7 @@
   <a href="https://wa.link/fk060y" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=cc57cf&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="whatsapp logo"  />
   </a>
-  <a href="https://portifolio-renata-godoys-projects.vercel.app/">
+  <a href="https://portfolio-m78ozhmrp-renata-godoys-projects.vercel.app/">
   <img src="https://img.shields.io/badge/-Portfolio-cc57cf?logo=github&logoColor=white&labelColor=cc57cf&style=flat" height="20" alt="Portfolio logo" />
 </a>
 
